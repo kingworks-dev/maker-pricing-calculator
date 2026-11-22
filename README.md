@@ -17,7 +17,3 @@ Price handmade goods so they actually pay you. Enter materials, labor hours, you
 The **Maker Pricing & Profit Calculator** pack handles product lines, bundles and wholesale tiers: **$12**, one-time.
 
 - Buy with a card (Stripe): https://buy.stripe.com/9B6aEQga31u4cnU1If0x22V
-
-## License
-
-The free calculator page in this repository is MIT licensed.
